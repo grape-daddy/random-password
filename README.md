@@ -18,4 +18,5 @@ $password = new Password(10);
 echo $password->generate();
 ```
 
+
 [Support me](https://www.buymeacoffee.com/ksn.th)
