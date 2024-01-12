@@ -5,6 +5,12 @@
   "license": "MIT",
   "type": "project",
   "homepage": "https://www.ksn.in.th",
+  "funding": [
+    {
+      "type": "other",
+      "url": "https://www.buymeacoffee.com/ksn.th"
+    }
+  ],
   "require": {
     "php": ">=5.6"
   },
