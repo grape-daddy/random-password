@@ -1,6 +1,7 @@
 {
   "name": "ksnth/random-password",
   "description": "Generate random password of a given length",
+  "version": "1.0.0",
   "require": {
     "php": ">=5.6"
   },
