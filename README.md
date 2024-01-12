@@ -4,7 +4,7 @@ Generate random password of a given length
 ## Installation
 This project using composer.
 ```
-$ composer require mazraara/random-password
+$ composer require ksnth/random-password
 ```
 
 ## Usage
